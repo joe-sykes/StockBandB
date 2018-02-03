@@ -1,3 +1,14 @@
 body{
-    background: yellow;
+    background: blue;
+    margin: auto;
+    width: 50%;
+}
+
+#mainContainer{
+    width: 80%;
+    background-color: #ff00ff;
+}
+
+.fourBox{
+    width: 80%;
 }
