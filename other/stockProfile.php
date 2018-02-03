@@ -11,7 +11,13 @@
 	<img src="../img/logo.png">
 </div>
 	<div id="mainContainer">
-        <h2></h2>
+        <h2>Stock Name</h2>
+        <p>Stock Symbol</p>
+        <p>Percentage Change</p>
+
+</br></br>
+<h2>NEWS ARTICLE NAME</h2>
+<P>AUTHOR</P>
     </div>
 </body>
 </html>
