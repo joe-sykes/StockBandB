@@ -13,20 +13,24 @@
 </div>
 	<div id="mainContainer">
 		
-		<section class="fourBox" id="topRisers">
-			<h2>Top Risers</h2>
-			<img id="boxIcons" src="img/riser.png">
-		</section>
-
-		<section class="fourBox" id="search">
-			<h2>Search</h2>
-			<img id="boxIcons" src="img/search.png">	
-		</section>
-
-		<section class="fourBox" id="topFallers">
-			<h2>Top Fallers</h2>
-			<img id="boxIcons" src="img/faller.png">
-		</section>
+		<a href="other/risers.php">
+			<section class="fourBox" id="topRisers">
+				<h2>Top Risers</h2>
+				<img id="boxIcons" src="img/riser.png">
+			</section>
+		</a>
+		
+			<section class="fourBox" id="search">
+				<h2>Search</h2>
+				<img id="boxIcons" src="img/search.png">	
+			</section>
+		
+		<a href="other/fallers.php">
+			<section class="fourBox" id="topFallers">
+				<h2>Top Fallers</h2>
+				<img id="boxIcons" src="img/faller.png">
+			</section>
+		</a>
 
 		<a href="other/fullList.php"
 			<section class="fourBox" id="fullList">

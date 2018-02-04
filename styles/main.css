@@ -66,5 +66,9 @@ body{
     border: 3px solid green;
 }
 
-/* fullList.php styling */
-
+/* risers & fallers .php styling */
+.profileContainer{
+    width: 90%;
+    background: rgba(131, 131, 131, 0.253);
+    border-radius: 5px;
+}
